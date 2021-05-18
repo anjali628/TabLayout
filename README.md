@@ -14,3 +14,6 @@ When the user swipe horizontally on the screen or click on STATUS tab, then the 
 Again if the user swipe horizontally on the screen or click on the CALLS tab, then the user will be on Calls fragment-
 
 ![Screenshot_20210518-135421](https://user-images.githubusercontent.com/64889275/118618658-7a298c80-b7e1-11eb-90df-6a4d3c0cdcbd.png)
+
+
+By Swiping horizontally or by clicking on any of the tab, the user can come on any of the desired fragment.
